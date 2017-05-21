@@ -1,0 +1,6 @@
+# socketLearning
+- Asynchronous
+
+- IOmultiplexing
+
+- Synchronous
